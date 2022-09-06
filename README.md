@@ -3,6 +3,20 @@
 
 ---
 
+```js
+  const name = 'João Mateus Mattedi'
+  console.log('Hello World!')
+  
+  let status =
+  { 
+    knowledge: [React.js, JavaScript, CSS, HTML]
+    learning : [TypeScript, Docker, SQL, Lua, C#],
+    interests: [Games, Design, Programming]
+  }
+ ```
+
+---
+
 <div align="center">
 
 | Tools  | Languages | Frameworks  | Technologies |  
