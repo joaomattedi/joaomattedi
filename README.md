@@ -19,7 +19,7 @@
 
 <div align="center">
 
-| Tools  | Languages | Frameworks  | Technologies |  
+| Tools  | Languages | Frameworks/Libraries  | Technologies |  
 |---|---|---|---|
 |<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="30" height="30"/>|<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="30" height="30"/>|<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="30" height="30"/>&nbsp;&nbsp;<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="30" height="30"/>|<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="30" height="30"/>|
 
@@ -27,8 +27,8 @@
 
 <div align="center">
   
-  <img height="165em" alt="Joaos Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomattedi&layout=compact&theme=dark&hide_border=true&bg_color=0D1117"/>
+  <img height="165em" alt="Joaos Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomattedi&layout=compact&theme=codeSTACKr&hide_border=true&bg_color=0D1117"/>
 
-  <img height="165em" alt="Joaos Github Status" src="https://github-readme-stats.vercel.app/api?username=joaomattedi&theme=dark"/>
+  <img height="165em" alt="Joaos Github Status" src="https://github-readme-stats.vercel.app/api?username=joaomattedi&theme=codeSTACKr&hide_border=true&bg_color=0D1117"/>
 
 </div>
