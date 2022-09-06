@@ -10,7 +10,7 @@
   let status =
   { 
     knowledge: [React.js, JavaScript, CSS, HTML]
-    learning : [TypeScript, Docker, SQL, Lua, C#],
+    learning: [TypeScript, Docker, SQL, Lua, C#],
     interests: [Games, Design, Programming]
   }
  ```
