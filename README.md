@@ -11,7 +11,7 @@
   { 
     knowledge: [React.js, JavaScript, CSS, HTML],
     learning: [TypeScript, Docker, SQL, Lua, C#],
-    interests: [Games, Design, Programming, Web Development],
+    interests: [Web Development, Games, Design, Programming],
   }
  ```
 
