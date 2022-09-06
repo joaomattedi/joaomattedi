@@ -40,4 +40,5 @@
 [![Linkedin: João Mattedi](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-mateus-mattedi/)](https://www.linkedin.com/in/joao-mateus-mattedi/)
 [![Gmail Badge](https://img.shields.io/badge/-joaommattedi@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaommattedi@gmail.com)](mailto:joaommattedi@gmail.com)
 [![GitHub João Mattedi]( https://img.shields.io/github/followers/joaomattedi?label=follow&style=social)](https://github.com/joaomattedi)
+![Profile views](https://gpvc.arturio.dev/iagoassis21)
 
