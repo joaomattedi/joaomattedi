@@ -9,8 +9,8 @@
   
   let status =
   { 
-    knowledge: [React.js, JavaScript, CSS, HTML],
-    learning: [TypeScript, Docker, SQL, Lua, C#],
+    knowledge: [React.js, JavaScript, CSS, HTML, TypeScript, Java, VueJS, Docker, SQL],
+    learning: [C#, Angular, Unity],
     interests: [Web Development, Games, Design, Programming],
   }
  ```
