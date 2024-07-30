@@ -10,8 +10,8 @@
   let status =
   { 
     knowledge: [React.js, JavaScript, CSS, HTML, TypeScript, Java, VueJS, Docker, SQL],
-    learning: [C#, Angular, Unity],
-    interests: [Web Development, Games, Design, Programming],
+    learning: [Kotlin, Unity, GameMaker],
+    interests: [Web Development, Games, Design, Mobile Apps],
   }
  ```
 
